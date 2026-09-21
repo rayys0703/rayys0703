@@ -136,8 +136,15 @@ rayya@github:~$ _
 ## 📊 `stats --live`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rayys0703&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0f0c29&title_color=00f5a0&icon_color=7b5cff&text_color=d6d6ff" alt="Rayya's GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayys0703&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0f0c29&title_color=00f5a0&text_color=d6d6ff" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frayys0703&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00f5a0&labelColor=0f0c29" alt="Public Repos"/>
+  <img src="https://img.shields.io/github/followers/rayys0703?label=Followers&style=for-the-badge&color=7b5cff&labelColor=0f0c29" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frayys0703&query=%24.following&label=Following&style=for-the-badge&color=ff4d8d&labelColor=0f0c29" alt="Following"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://ghchart.rshah.org/00f5a0/rayys0703" alt="Contribution Chart"/>
 </div>
 
 <br/>
@@ -151,19 +158,7 @@ rayya@github:~$ _
 ## 📈 `tail -f activity.log`
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayys0703&bg_color=0f0c29&color=00f5a0&line=7b5cff&point=ff4d8d&area=true&area_color=7b5cff&hide_border=true&title_color=00f5a0" alt="Activity Graph"/>
-</div>
-
----
-
-## 🐍 `./snake --eat-contributions`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayys0703/rayys0703/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayys0703/rayys0703/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/rayys0703/rayys0703/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=700&color=00F5A0&multiline=true&repeat=true&width=640&height=170&lines=%24+git+pull+origin+main;%3E+Already+up+to+date.;%24+php+artisan+serve;%3E+Server+running+on+http%3A%2F%2F127.0.0.1%3A8000;%24+flutter+run;%3E+Syncing+files+to+device...+%E2%9C%94;%24+echo+keep+building" alt="Terminal Log"/>
 </div>
 
 ---
